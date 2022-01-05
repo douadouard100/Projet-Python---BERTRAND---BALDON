@@ -15,8 +15,8 @@ post, as well as some days of the week, the best one being tuesday.
 The best model we found to estimate the proportion of new comments is a Gradient Boosting model that
 allowed us to reach ~63% accuracy on our predictions.
 
-In order to use the flask application:
-Run the app script and connect to the link that appears in the console. When entering your data, you can
+In order to use the flask application first unzip the file, then
+run the app script and connect to the link that appears in the console. When entering your data, you can
 check the number associated to each category in the "categories.txt" file in the flask folder.
 
 Visualizations of the data can be found in the jupyter notebook.

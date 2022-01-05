@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}" />
+  <title>FacebookCommentPred</title>
+
+</head>
+<body>
+ <div class="login">
+	<h1>Predict Number of comments</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="NbLikePage" placeholder="Number of like for this page" required="required" />
+        <input type="text" name="NbPersLieu" placeholder="Number of people who indicated to be at this location" required="required" />
+		<input type="text" name="NbInteractionQuot" placeholder="Number of daily interactions from people who liked the page" required="required" />
+        <input type="text" name="Categorie" placeholder="Page Category" required="required" />
+		<input type="text" name="NbComAvantBD" placeholder="Current total comment count" required="required" />
+		<input type="text" name="NbCom24hAvantBD" placeholder="Number of comments in the last 24 hours" required="required" />
+		<input type="text" name="NbCom48hAvantBD" placeholder="Number of comments between the last 24 and 48 hours" required="required" />
+		<input type="text" name="NbCom24hApresPubli" placeholder="Number of comments obtained in the first 24 hours" required="required" />
+		<input type="text" name="NbCaracterePost" placeholder="Number of characters in the post" required="required" />
+		<input type="text" name="NbPartageAvantBD" placeholder="Current total shares" required="required" />
+		<input type="text" name="PostSponso" placeholder="Is the post sponso? (0 no, 1 yes)" required="required" />
+		<input type="text" name="JourSemaine" placeholder="What day of the week your post was posted (between 0 and 6)" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+</body>
+</html>

@@ -1,0 +1,106 @@
+1 Product/service
+2 Public figure
+3 Retail and consumer merchandise
+4 Athlete
+5 Education website
+6 Arts/entertainment/nightlife
+7 Aerospace/defense
+8 Actor/director
+9 Professional sports team
+10 Travel/leisure
+11 Arts/humanities website
+12 Food/beverages
+13 Record label
+14 Movie
+15 Song
+16 Community
+17 Company
+18 Artist
+19 Non-governmental organization (ngo)
+20 Media/news/publishing
+21 Cars
+22 Clothing
+23 Local business
+24 Musician/band
+25 Politician
+26 News/media website
+27 Education
+28 Author
+29 Sports event
+30 Restaurant/cafe
+31 School sports team
+32 University
+33 Tv show
+34 Website
+35 Outdoor gear/sporting goods
+36 Political party
+37 Sports league
+38 Entertainer
+39 Church/religious organization
+40 Non-profit organization
+41 Automobiles and parts
+42 Tv channel
+43 Telecommunication
+44 Entertainment website
+45 Shopping/retail
+46 Personal blog
+47 App page
+48 Vitamins/supplements
+49 Professional services
+50 Movie theater
+51 Software
+52 Magazine
+53 Electronics
+54 School
+55 Just for fun
+56 Club
+57 Comedian
+58 Sports venue
+59 Sports/recreation/activities
+60 Publisher
+61 Tv network
+62 Health/medical/pharmacy
+63 Studio
+64 Home decor
+65 Jewelry/watches
+66 Writer
+67 Health/beauty
+68 Music video
+69 Appliances
+70 Computers/technology
+71 Insurance company
+72 Music award
+73 Recreation/sports website
+74 Reference website
+75 Business/economy website
+76 Bar
+77 Album
+78 Games/toys
+79 Camera/photo
+80 Book
+81 Producer
+82 Landmark
+83 Cause
+84 Organization
+85 Tv/movie award
+86 Hotel
+87 Health/medical/pharmaceuticals
+88 Transportation
+89 Local/travel website
+90 Musical instrument
+91 Radio station
+92 Other
+93 Computers
+94 Phone/tablet
+95 Coach
+96 Tools/equipment
+97 Internet/software
+98 Bank/financial institution
+99 Society/culture website
+100 Small business
+101 News personality
+102 Teens/kids website
+103 Government official
+104 Photographer
+105 Spas/beauty/personal care
+106 Video game

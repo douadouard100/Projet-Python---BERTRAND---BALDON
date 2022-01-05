@@ -20,4 +20,3 @@ allowed us to reach ~63% accuracy on our predictions.
 In order to use the flask application:
 Run the app script and connect to the link that appears in the console. When entering your data, you can
 check the number associated to each category in the "categories.txt" file in the flask folder.
-(If Flask does not work, try running the main script, this may take a few minutes)
